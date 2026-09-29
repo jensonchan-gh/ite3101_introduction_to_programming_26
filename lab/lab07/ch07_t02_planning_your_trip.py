@@ -1,4 +1,4 @@
 def hotel_cost(night:int)-> int:
     return 140 * nights
 
-print("hotel_cost(7))
+print("hotel_cost(7)")
