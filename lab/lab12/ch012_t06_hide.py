@@ -17,3 +17,7 @@ def random_row(board: List[List[str]])
 
 
 def random_col(board: List[List[str]])
+
+
+random_row(board)
+random_col(board)
