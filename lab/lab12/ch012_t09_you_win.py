@@ -32,3 +32,5 @@ guess_col = int(input("Guess Col: "))
 # Write your code below!
 if guess_col == ship_col and guess_row == ship_row:
     print("Congratulations! You sank my battleship!")
+else:
+    
