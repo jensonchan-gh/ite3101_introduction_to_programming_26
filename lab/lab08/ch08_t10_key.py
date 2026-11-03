@@ -1,6 +1,7 @@
-# Assigning a dictionary with three key-value pairs to residents:
-residents = {'Puffin': 104, 'Sloth': 105, 'Burmese Python': 106}
-
-print(residents['Puffin'])  # Prints Puffin's room number
+start_list = [5, 3, 1, 2, 4]
+square_list = []
 
 # Your code here!
+
+
+print(square_list)
