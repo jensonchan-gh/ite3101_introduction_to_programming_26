@@ -1,3 +1,4 @@
 def digit_sum(n:int)->int:
     sum = 0
-    for 
+    for x in str(n):
+        
