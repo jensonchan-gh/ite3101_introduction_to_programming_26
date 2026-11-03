@@ -33,4 +33,6 @@ guess_col = int(input("Guess Col: "))
 if guess_col == ship_col and guess_row == ship_row:
     print("Congratulations! You sank my battleship!")
 else:
-    
+    print("You missed my battleship!")
+    board[guess_row][guess_col] = "X"
+    print_board(board)
